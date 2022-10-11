@@ -18,4 +18,13 @@ and just uses plain java script to generate password, and if you are familiar wi
 
 So to save password you should manually paste or write somewhere, though I may add save functionality in future updates if I ever do.
 
-![demo](https://github.com/darkhorse1925/luck7/blob/master/luck7_demo.png)
+![demo](https://github.com/darkhorse1925/luck7/blob/master/demo_luck7.png)
+
+Installation guide: 
+1. Open Browser ( any chrome based )
+2. Go to setting 
+3. Extensions 
+4. Manage extensions
+5. Toggle Developer Mode
+6. Click load unpacked 
+7. Locate the folder
